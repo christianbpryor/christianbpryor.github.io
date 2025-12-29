@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Christian B. Pryor
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. Marine Sciences
+      institution: Texas A&M University at Galveston
+      year: 2020-2024
       description:
-        - Description 1.
+        - Minors in Chemistry and Marine Biology
         - Description 2.
         - title: Description 3.
           contents:
