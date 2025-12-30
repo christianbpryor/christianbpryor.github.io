@@ -1,22 +1,43 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Christian Pryor",
     "label": "Chemist",
+    "image": "",
     "email": "christianbpryor@gmail.com",
+    "phone": "",
     "url": "https://christianbpryor.github.io",
-    "summary": "in progress",
+    "summary": "",
     "location": {
-      "city": "Dallas",
-      "region": "Texas"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
   },
   "work": [
     {
-      "name": "Stable Isotope Lab, Rice University",
-      "position": "NSF Research Experience for Undergraduate Intern",
-      "url": "https://eeps.rice.edu",
-      "startDate": "May 2021",
-      "endDate": "Aug. 2021",
+      "name": "Trinity River Authority of Texas",
+      "position": "Chemist",
+      "url": "",
+      "startDate": "Dec 2025",
+      "endDate": "Present",
+      "summary": "summary",
+      "highlights": ["skills"]
+    },
+    {
+      "name": "Austin Water, City of Austin, Texas",
+      "position": "Water Quality Scientist",
+      "url": "",
+      "startDate": "Sept 2024",
+      "endDate": "Dec 2025",
       "summary": "summary",
       "highlights": ["skills"]
     },
@@ -24,8 +45,35 @@
       "name": "Phytoplankton Dynamics Lab, Texas A&M University at Galveston",
       "position": "Undergraduate Researcher",
       "url": "https://www.tamug.edu/phytoplankton/index.html",
-      "startDate": "Sept. 2021",
-      "endDate": "Apr. 2024",
+      "startDate": "Sept 2021",
+      "endDate": "Apr 2024",
+      "summary": "summary",
+      "highlights": ["skills"]
+    },
+    {
+      "name": "NOAA Southwest Fisheries Science Center",
+      "position": "Ernest F. Hollings Scholar",
+      "url": "https://www.tamug.edu/phytoplankton/index.html",
+      "startDate": "Sept 2021",
+      "endDate": "Apr 2024",
+      "summary": "summary",
+      "highlights": ["skills"]
+    },
+    {
+      "name": "Environmental Institute of Houston, UH-Clear Lake",
+      "position": "Lentic Ecology Field Technician",
+      "url": "https://www.uhcl.edu/environmental-institute/",
+      "startDate": "May 2022",
+      "endDate": "Aug 2022",
+      "summary": "summary",
+      "highlights": ["skills"]
+    },
+    {
+      "name": "Stable Isotope Lab, Rice University",
+      "position": "NSF Research Experience for Undergraduate Intern",
+      "url": "https://eeps.rice.edu",
+      "startDate": "May 2021",
+      "endDate": "Aug 2021",
       "summary": "summary",
       "highlights": ["skills"]
     }
