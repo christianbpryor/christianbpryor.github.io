@@ -27,7 +27,6 @@
       "name": "Trinity River Authority of Texas",
       "position": "Chemist",
       "url": "",
-      "location": "Dallas, Texas",
       "startDate": "Dec 2025",
       "endDate": "Present",
       "summary": "summary",
@@ -37,7 +36,6 @@
       "name": "Austin Water, City of Austin, Texas",
       "position": "Water Quality Scientist",
       "url": "",
-      "location": "Austin, Texas",
       "startDate": "Sept 2024",
       "endDate": "Dec 2025",
       "summary": "summary",
@@ -47,7 +45,6 @@
       "name": "Phytoplankton Dynamics Lab, Texas A&M University at Galveston",
       "position": "Undergraduate Researcher",
       "url": "https://www.tamug.edu/phytoplankton/index.html",
-      "location": "Galveston, Texas",
       "startDate": "Sept 2021",
       "endDate": "Apr 2024",
       "summary": "summary",
@@ -57,7 +54,6 @@
       "name": "NOAA Southwest Fisheries Science Center",
       "position": "Ernest F. Hollings Scholar",
       "url": "https://www.tamug.edu/phytoplankton/index.html",
-      "location": "La Jolla, California",
       "startDate": "Sept 2021",
       "endDate": "Apr 2024",
       "summary": "summary",
@@ -67,7 +63,6 @@
       "name": "Environmental Institute of Houston, UH-Clear Lake",
       "position": "Lentic Ecology Field Technician",
       "url": "https://www.uhcl.edu/environmental-institute/",
-      "location": "Houston, Texas",
       "startDate": "May 2022",
       "endDate": "Aug 2022",
       "summary": "summary",
@@ -77,7 +72,6 @@
       "name": "Stable Isotope Lab, Rice University",
       "position": "NSF Research Experience for Undergraduate Intern",
       "url": "https://eeps.rice.edu",
-      "location": "Houston, Texas",
       "startDate": "May 2021",
       "endDate": "Aug 2021",
       "summary": "summary",
@@ -131,7 +125,7 @@
       "title": "Terry Foundation Traditional Scholar",
       "date": "2020",
       "awarder": "The Terry Foundation"
-    },
+    }
   ],
   "certificates": [
     {
