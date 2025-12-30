@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-# <font color=#69820D>**2024**</font>
+# <span style="color:#69820D">2024</span>
 TAMUG 2024 symposium 
 
 Pryor, C., S. Davis, J. Childs, A. Quigg. “PFAS mixology: the physiological response of Texas coastal 
@@ -18,7 +18,7 @@ in the California Current.” American Geophysical Union Ocean Sciences Meeting.
 Poster. 
 2024
 
-# <font color=#69820D>**2023**</font>
+# <span style="color:#69820D">**2023**</span>
 Pryor, C., S. Davis, M. Kamalanathan, A. Quigg. “Phytoplankton-bacteria interactions: a new method to 
 investigate protein activity in the phycosphere.” Coastal and Estuarine Research Federation 27th
 Biennial Conference. Portland, OR. Poster. 
@@ -35,7 +35,7 @@ University System Pathways Student Research Symposium. Galveston, TX. Poster. Aw
 Undergraduate Life Sciences. 
 2023
 
-# <font color=#69820D>**2022**</font>
+# **<span style="color:#69820D">2024</span>**
 Pryor, C., S. Davis, A. Mitchell, S. Klumer, A. Quigg. “A true substitute? Assessing the physiological 
 toxicity of 6:2 fluorotelomer sulfonate on the diatom, Thalassiosira pseudonana.” Texas A&M 
 University at Galveston Student Research Symposium. Galveston, TX. Poster. Award: 2nd Place – 
