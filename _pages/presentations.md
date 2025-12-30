@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-# **<font color=$green-color>2024</font>**
+# **<font color=#69820D>2024</font>**
 TAMUG 2024 symposium 
 
 Pryor, C., S. Davis, J. Childs, A. Quigg. “PFAS mixology: the physiological response of Texas coastal 
