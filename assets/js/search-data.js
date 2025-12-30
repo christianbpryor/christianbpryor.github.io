@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-presentations",
-          title: "presentations",
+        },{id: "nav-lt-font-color-ff0000-gt-presentations-lt-font-gt",
+          title: "&lt;font color=#ff0000&gt;presentations&lt;/font&gt;",
           description: "",
           section: "Navigation",
           handler: () => {
