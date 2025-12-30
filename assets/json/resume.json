@@ -9,13 +9,6 @@
       "city": "Dallas",
       "region": "Texas"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
@@ -23,7 +16,7 @@
       "position": "NSF Research Experience for Undergraduate Intern",
       "url": "https://eeps.rice.edu",
       "startDate": "May 2021",
-      "endDate": "August 2021",
+      "endDate": "Aug. 2021",
       "summary": "summary",
       "highlights": ["skills"]
     },
@@ -55,8 +48,8 @@
       "location": "Galveston, Texas",
       "area": "summa cum laude, minors in Chemistry and Biology",
       "studyType": "B.S. Marine Sciences",
-      "startDate": "Aug. 2020",
-      "endDate": "May 2024"
+      "startDate": "2020",
+      "endDate": "24"
     }
   ],
   "awards": [
