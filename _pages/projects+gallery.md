@@ -1,8 +1,8 @@
 ---
 layout: page
-title: gallery
-permalink: /gallery/
-description: A growing collection of your cool projects.
+title: projects
+permalink: /projects/
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
