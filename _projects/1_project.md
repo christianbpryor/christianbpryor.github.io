@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PFAS & Phytoplankton Physiology
+title: PFAS Toxicity on Phytoplankton Physiology
 description: Undegraduate Thesis
 img: assets/img/12.jpg
 importance: 1
