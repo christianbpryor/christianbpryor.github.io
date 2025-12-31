@@ -481,11 +481,6 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-paleoceanography-of-the-ross-sea-antarctica",
-          title: 'Paleoceanography of the Ross Sea, Antarctica',
-          description: "NSF REU Project at Rice University",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-boncat",
           title: 'BONCAT',
           description: "Undergraduate Research 2022-2023",
@@ -496,6 +491,11 @@ ninja.data = [{
           description: "Undegraduate Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PFAS/";
+            },},{id: "projects-paleoceanography-of-the-ross-sea-antarctica",
+          title: 'Paleoceanography of the Ross Sea, Antarctica',
+          description: "NSF REU Project at Rice University",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/REU/";
             },},{
         id: 'social-cv',
         title: 'CV',
