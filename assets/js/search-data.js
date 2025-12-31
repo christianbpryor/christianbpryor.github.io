@@ -451,8 +451,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-pfas-amp-phytoplankton-physiology",
-          title: 'PFAS &amp;amp; Phytoplankton Physiology',
+          section: "News",},{id: "projects-pfas-toxicity-on-phytoplankton-physiology",
+          title: 'PFAS Toxicity on Phytoplankton Physiology',
           description: "Undegraduate Thesis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
