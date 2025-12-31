@@ -476,11 +476,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-boncat",
-          title: 'BONCAT',
-          description: "Undergraduate Research 2022-2023",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
@@ -491,6 +486,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-boncat",
+          title: 'BONCAT',
+          description: "Undergraduate Research 2022-2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/BONCAT/";
             },},{id: "projects-pfas-toxicity-on-phytoplankton-physiology",
           title: 'PFAS Toxicity on Phytoplankton Physiology',
           description: "Undegraduate Thesis",
