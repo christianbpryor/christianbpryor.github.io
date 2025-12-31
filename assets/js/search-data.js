@@ -466,11 +466,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
@@ -486,6 +481,11 @@ ninja.data = [{
           description: "Undergraduate Research 2022-2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BONCAT/";
+            },},{id: "projects-larval-fish-biodiversity-of-marine-sanctuaries",
+          title: 'Larval Fish Biodiversity of Marine Sanctuaries',
+          description: "NOAA Hollings Internship in Summer 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hollings/";
             },},{id: "projects-pfas-toxicity-on-phytoplankton-physiology",
           title: 'PFAS Toxicity on Phytoplankton Physiology',
           description: "Undegraduate Thesis",
