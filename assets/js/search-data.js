@@ -491,6 +491,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-pfas-toxicity-on-phytoplankton-physiology",
+          title: 'PFAS Toxicity on Phytoplankton Physiology',
+          description: "Undegraduate Thesis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PFAS/";
             },},{
         id: 'social-cv',
         title: 'CV',
