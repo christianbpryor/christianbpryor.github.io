@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Christian Pryor",
-    "label": "Chemist",
+    "title": "Chemist",
     "image": "",
     "email": "christianbpryor@gmail.com",
     "phone": "",
@@ -27,10 +27,10 @@
       "name": "Trinity River Authority of Texas",
       "position": "Chemist",
       "url": "",
-      "startDate": "Dec 2025",
-      "endDate": "Present",
-      "summary": "summary",
-      "highlights": ["skills"]
+      "startDate": "Dec 2025 - P",
+      "endDate": "",
+      #"summary": "summary",
+      #"highlights": ["skills"]
     },
     {
       "name": "Austin Water, City of Austin, Texas",
@@ -38,8 +38,8 @@
       "url": "",
       "startDate": "Sept 2024",
       "endDate": "Dec 2025",
-      "summary": "summary",
-      "highlights": ["skills"]
+      #"summary": "summary",
+      #"highlights": ["skills"]
     },
     {
       "name": "Phytoplankton Dynamics Lab, Texas A&M University at Galveston",
