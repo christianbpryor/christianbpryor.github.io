@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Paleoceanography of the Ross Sea, Antarctica
+description: NSF REU Project at Rice University
 img: assets/img/6.jpg
 importance: 4
 category: fun
