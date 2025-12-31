@@ -28,42 +28,42 @@
       "position": "Chemist",
       "location": "Dallas, Texas",
       "url": "",
-      "startDate": "Dec 2025 - P",
+      "startDate": "2025",
       "endDate": ""
     },
     {
       "name": "Austin Water, City of Austin, Texas",
       "position": "Water Quality Scientist",
       "url": "",
-      "startDate": "Sept 2024",
-      "endDate": "Dec 2025"
+      "startDate": "2024",
+      "endDate": "2025"
     },
     {
       "name": "Phytoplankton Dynamics Lab, Texas A&M University at Galveston",
       "position": "Undergraduate Researcher",
       "url": "https://www.tamug.edu/phytoplankton/index.html",
-      "startDate": "Sept 2021",
-      "endDate": "Apr 2024"
+      "startDate": "2021",
+      "endDate": "2024"
     },
     {
       "name": "NOAA Southwest Fisheries Science Center",
       "position": "Ernest F. Hollings Scholar",
       "url": "https://www.tamug.edu/phytoplankton/index.html",
-      "startDate": "Sept 2021",
-      "endDate": "Apr 2024"
+      "startDate": "May",
+      "endDate": "Aug 2023"
     },
     {
       "name": "Environmental Institute of Houston, UH-Clear Lake",
       "position": "Lentic Ecology Field Technician",
       "url": "https://www.uhcl.edu/environmental-institute/",
-      "startDate": "May 2022",
+      "startDate": "May",
       "endDate": "Aug 2022"
     },
     {
       "name": "Stable Isotope Lab, Rice University",
       "position": "NSF Research Experience for Undergraduate Intern",
       "url": "https://eeps.rice.edu",
-      "startDate": "May 2021",
+      "startDate": "May",
       "endDate": "Aug 2021"
     }
   ],
