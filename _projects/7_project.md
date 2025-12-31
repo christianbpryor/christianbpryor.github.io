@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: BONCAT
+description: Undergraduate Research 2022-2023
 img: assets/img/4.jpg
 importance: 1
 category: work
