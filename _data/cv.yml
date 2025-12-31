@@ -1,10 +1,12 @@
-- title: General Information
+- title: Overview
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Christian B. Pryor
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Title
+      value: Chemist
+    - name: Email (personal)
+      value: christianbpryor@gmail.com
     - name: Languages
       value: English, German
 
@@ -15,8 +17,7 @@
       institution: Texas A&M University at Galveston
       year: 2020-2024
       description:
-        - Minors in Chemistry and Marine Biology
-        - Description 2.
+        - Minors in Chemistry & Marine Biology
         - title: Description 3.
           contents:
             - Sub-description 1.
