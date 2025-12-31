@@ -69,16 +69,25 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Scholarships and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 1924
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
-    - year: 2029
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Terry Foundation Traditional Scholarship
+    - year: 2022
+      items:
+        - Terry Foundation Traditional Scholarship
+    - year: 2021
+      items:
+        - Terry Foundation Traditional Scholarship
+    - year: 2020
+      items:
+        - Terry Foundation Traditional Scholarship
 
 - title: Academic Interests
   type: nested_list
