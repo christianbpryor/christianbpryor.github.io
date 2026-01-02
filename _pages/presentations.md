@@ -4,7 +4,7 @@ permalink: /presentations/
 title: presentations
 description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 ## **<span style="color:#69820D">2024</span>**
 **Pryor, C.**, S. Davis, J. Childs, A. Quigg. “PFAS mixology: the physiological response of Texas coastal 
