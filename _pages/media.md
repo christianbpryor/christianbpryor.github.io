@@ -12,3 +12,5 @@ nav_order: 5
 **[Hollings Scholar Flourishes as Promising Researcher, Oceanographer](https://news.galveston.tamu.edu/noaa-hollings-scholar-chris-pryor-24/)** *by Taylor Bounds/ Bldg. 311*
 
 **[Four Texas A&M Undergraduates Nominated for the 2023 Goldwater Scholarship](https://example.com/pragmatic-programmer)** *by the TAMU LAUNCH Program*
+
+**[Alumni Profile | Environmental Institute of Houston](https://www.uhcl.edu/environmental-institute/people/alumni/pryor-chris)**
