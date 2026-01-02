@@ -38,7 +38,7 @@
     - title: Undergraduate Researcher
       institution: Phytoplankton Dynamics Laboratory, Texas A&M University at Galveston
       year: 2021 - 2024
-      Description: Galveston, Texas
+      description: Galveston, Texas
 
     - title: NOAA Ernest F. Hollings Scholar
       institution: NOAA Southwest Fisheries Science Center
@@ -46,7 +46,7 @@
       description: La Jolla, California
       
     - title: NSF Research Experience for Undergraduates Intern
-      institutiton: Stable Isotope Laboratory, Rice University
+      institution: Stable Isotope Laboratory, Rice University
       year: 2021
       description: Houston, Texas
 
@@ -78,9 +78,9 @@
 - title: Research Grants
   type: list
   contents:
-        - year: 2023
+    - year: 2023
       items:
-        - Coastal Estuarine Research Federation (CERF) Rising Towards an Inclusive, Diverse, and Enriched Society Travel Gran
+        - Coastal Estuarine Research Federation (CERF) Rising Towards an Inclusive, Diverse, and Enriched Society Travel Grant
     - year: 2022
       items:
         - Aggies Commit to Excellence Small Grant
@@ -101,4 +101,4 @@
     - title: Chancellor's Student Advisory Council - Galveston Representative
       institution: Texas A&M University System
       year: 2021 - 2023
-      Description: Galveston, Texas
+      description: Galveston, Texas
