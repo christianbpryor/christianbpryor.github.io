@@ -26,7 +26,8 @@
   type: time_table
   contents:
     - title: Chemist
-      institution: Regulatory Services and Compliance Laboratory, Trinity River Authority of Texas
+      institution: Trinity River Authority of Texas
+      department: Regulatory Services and Compliance Laboratory
       year: 2025 - P
       description: Dallas, Texas
       
