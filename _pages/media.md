@@ -13,6 +13,6 @@ nav_order: 5
 
 **[Four Texas A&M Undergraduates Nominated for the 2023 Goldwater Scholarship](https://example.com/pragmatic-programmer)** *by the TAMU LAUNCH Program*
 
-**[Profile | Environmental Institute of Houston](https://www.uhcl.edu/environmental-institute/people/alumni/pryor-chris)**
+**[Profile - Environmental Institute of Houston](https://www.uhcl.edu/environmental-institute/people/alumni/pryor-chris)**
 
-**[Profile | Planetary Habitability over Space and Time NSF REU](https://eepsreu.blogs.rice.edu/2021-participants/)** *by the Rice University Earth, Environment, and Planetary Sciences Dept.*
+**[Profile - Planetary Habitability over Space and Time NSF REU](https://eepsreu.blogs.rice.edu/2021-participants/)** *by the Rice University Earth, Environment, and Planetary Sciences Dept.*
