@@ -1,5 +1,5 @@
-#adding this line to break json file and use _data/cv.yml
-{
+#adding this # in the line to break json file and use _data/cv.yml
+{#
   "basics": {
     "name": "Christian Pryor",
     "label": "Chemist",
