@@ -8,9 +8,9 @@
     - name: Email (personal)
       value: christianbpryor@gmail.com
     - name: Web URL
-      value: [christianbpryor.github.io](https://christianbpryor.github.io)
+      value: "[christianbpryor.github.io](https://christianbpryor.github.io)"
     - name: LinkedIn URL
-      value: [linkedin.com/in/christian-pryor-86856620b](https://www.linkedin.com/in/christian-pryor-86856620b)
+      value: "[linkedin.com/in/christian-pryor-86856620b](https://www.linkedin.com/in/christian-pryor-86856620b)"
 
 - title: Education
   type: time_table
