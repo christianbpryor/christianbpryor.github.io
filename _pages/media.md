@@ -10,8 +10,8 @@ nav_order: 5
 
 Here are some books along with their links:
 
-[2023 CERF Rising TIDES Conference Program](https://www.cerf.science/2023-rising-tides-program)) by the Coastal and Estuarine Research Society
+[2023 CERF Rising TIDES Conference Program](https://www.cerf.science/2023-rising-tides-program) by the Coastal and Estuarine Research Society
 
-[Hollings Scholar Flourishes as Promising Researcher, Oceanographer]([https://example.com/sapiens](https://news.galveston.tamu.edu/noaa-hollings-scholar-chris-pryor-24/)) by Taylor Bounds/ Bldg. 311
+[Hollings Scholar Flourishes as Promising Researcher, Oceanographer](https://news.galveston.tamu.edu/noaa-hollings-scholar-chris-pryor-24/)) by Taylor Bounds/ Bldg. 311
 
 [Four Texas A&M Undergraduates Nominated for the 2023 Goldwater Scholarship](https://example.com/pragmatic-programmer) by the TAMU LAUNCH Program
