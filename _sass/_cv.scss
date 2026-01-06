@@ -1,3 +1,4 @@
+
 /*****************************
  * CV shared styles
  *****************************/
@@ -47,6 +48,23 @@ p.location {
   white-space: nowrap;
 }
 
+i.iconlocation {
+  color: var(--global-theme-color);
+  font-size: 0.8rem;
+}
+
+i.iconinstitution {
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
+  margin-right: 0.3rem;
+}
+
+i.icondepartment {
+  color: var(--global-theme-color);
+  font-size: 0.8rem;
+  margin-right: 0.3rem;
+}
+
 table.institution {
   margin-bottom: 1rem;
 }
@@ -59,7 +77,7 @@ div.container-links {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: left;
+  align-items: center;
   justify-content: flex-start;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -73,7 +91,7 @@ div.container-pdf {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: left;
+  align-items: center;
   justify-content: flex-start;
 }
 
